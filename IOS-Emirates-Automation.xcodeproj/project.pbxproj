@@ -14,6 +14,7 @@
 		182E50362EE0A0910029E0F5 /* IOS_Emirates_AutomationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182E50352EE0A0910029E0F5 /* IOS_Emirates_AutomationTests.swift */; };
 		182E50402EE0A0910029E0F5 /* IOS_Emirates_AutomationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182E503F2EE0A0910029E0F5 /* IOS_Emirates_AutomationUITests.swift */; };
 		182E50422EE0A0910029E0F5 /* IOS_Emirates_AutomationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182E50412EE0A0910029E0F5 /* IOS_Emirates_AutomationUITestsLaunchTests.swift */; };
+		182E504F2EE0A45C0029E0F5 /* LoginViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182E504E2EE0A45C0029E0F5 /* LoginViewTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		182E503B2EE0A0910029E0F5 /* IOS-Emirates-AutomationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IOS-Emirates-AutomationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		182E503F2EE0A0910029E0F5 /* IOS_Emirates_AutomationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOS_Emirates_AutomationUITests.swift; sourceTree = "<group>"; };
 		182E50412EE0A0910029E0F5 /* IOS_Emirates_AutomationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOS_Emirates_AutomationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		182E504E2EE0A45C0029E0F5 /* LoginViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 			isa = PBXGroup;
 			children = (
 				182E50352EE0A0910029E0F5 /* IOS_Emirates_AutomationTests.swift */,
+				182E504E2EE0A45C0029E0F5 /* LoginViewTests.swift */,
 			);
 			path = "IOS-Emirates-AutomationTests";
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				182E504F2EE0A45C0029E0F5 /* LoginViewTests.swift in Sources */,
 				182E50362EE0A0910029E0F5 /* IOS_Emirates_AutomationTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
